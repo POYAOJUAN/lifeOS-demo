@@ -6,9 +6,10 @@
 
 1. 打開 Terminal，貼上這行下載 vault：
    ```bash
-   cd ~/Desktop && git clone https://github.com/POYAOJUAN/lifeOS-demo.git MyNotes
+   cd ~/Desktop && git clone https://github.com/POYAOJUAN/lifeOS-demo.git lifeOS
    ```
-2. 打開 Obsidian → 「Open folder as vault」→ 選 `Desktop/MyNotes`
+   > 💡 `lifeOS` 是資料夾名稱，可以改成你喜歡的名字（例如 `MyNotes`、`SecondBrain`）
+2. 打開 Obsidian → 「Open folder as vault」→ 選 `Desktop/lifeOS`
 3. 安裝推薦插件（見下方）
 4. 開始寫你的第一則 Daily Note！
 
