@@ -4,8 +4,11 @@
 
 ## 快速開始
 
-1. 下載這個資料夾（或 `git clone`）
-2. 打開 Obsidian → 「Open folder as vault」→ 選這個資料夾
+1. 打開 Terminal，貼上這行下載 vault：
+   ```bash
+   cd ~/Desktop && git clone https://github.com/POYAOJUAN/lifeOS-demo.git MyNotes
+   ```
+2. 打開 Obsidian → 「Open folder as vault」→ 選 `Desktop/MyNotes`
 3. 安裝推薦插件（見下方）
 4. 開始寫你的第一則 Daily Note！
 
